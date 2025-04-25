@@ -1,2 +1,2 @@
 # Google-Advanced-Data-Analytics
-Final Project (code) and Hands-On labs part of the professional cetificate offered by Google.
+Final Project (code) and Hands-On labs part of the professional certificate offered by Google.
